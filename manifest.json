@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "CLOSE",
+  "description": "",
+  "theme": {
+		"images" : {
+      "theme_frame" : "images/theme_frame_close.png",
+      "theme_frame_overlay" : "images/theme_frame_close.png",
+      "theme_toolbar" : "images/theme_frame_close.png",
+      "theme_ntp_background" : "images/theme_frame_close.png",
+      "theme_ntp_attribution" : "images/theme_frame_close.png"
+    },
+    "colors": {
+      "frame": [ 9, 26, 50 ],
+      "toolbar": [ 34, 53, 71 ],
+      "ntp_background": [ 34, 53, 71 ],
+      "tab_text": [ 255, 255, 255 ],
+      "bookmark_text": [ 255, 255, 255 ],
+      "tab_background_text": [ 255, 255, 255 ],
+      "ntp_text": [ 255, 255, 255 ]
+    }
+  }
+}
